@@ -359,8 +359,6 @@ http://fl2.moveonjoy.com/DISNEY_JR/index.m3u8
 http://212.102.60.231/DISNEY_XD/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="gma" tvg-logo="https://i.imgur.com/nMSt2j0.png" group-title="ABRIL LOCAL CABLE", GMA
 https://wag.ika.lat/stream/812083425
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYg0RRIS2pGqZG4O7TjAKa0SCBCYrLtkpXKw&s" group-title="ABRIL LOCAL CABLE", 02. GMA TV BACKUP 
-https://shorten.is/Mikeph-gmatvbackup-m3u8?.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="gtv" tvg-logo="https://i.imgur.com/txozMGM.png" group-title="ABRIL LOCAL CABLE", GTV
 https://wag.ika.lat/stream/872206966
 
